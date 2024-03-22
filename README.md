@@ -14,3 +14,7 @@ During this assignment, the PyCharm libraries I imported were Pandas, Numpy, Mat
 I needed to make a note for every step of the process (Markdowns) to paint a clearer picture to the reader about what was happening with the coding and visualisations that were being presented.
 
 And at the end, I needed to draw conclusions on the findings from the data and visualisations. 
+
+[Link to the project](https://github.com/TonyLaw22/videogame_sales/blob/main/vgproject_new.ipynb)
+
+[Link to original csv. file](https://github.com/TonyLaw22/videogame_sales/blob/main/vgsales.csv)
