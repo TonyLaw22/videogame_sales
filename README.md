@@ -1,3 +1,5 @@
+![image](https://github.com/TonyLaw22/videogame_sales/assets/157816259/94dee1c2-aaf6-43a1-8a51-1ee7bdca98ce)
+
 # Video Games Analysis
 Antoni Lawrence
 
